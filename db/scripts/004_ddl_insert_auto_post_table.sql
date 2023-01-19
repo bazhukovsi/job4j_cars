@@ -1,0 +1,9 @@
+insert into auto_post (description, created, auto_user_id) values ('car1','2023-01-01',1);
+insert into auto_post (description, created, auto_user_id) values ('car2','2023-01-02',1);
+insert into auto_post (description, created, auto_user_id) values ('car3','2022-01-03',2);
+insert into auto_post (description, created, auto_user_id) values ('car4','2022-02-01',3);
+insert into auto_post (description, created, auto_user_id) values ('car5','2022-05-01',4);
+insert into auto_post (description, created, auto_user_id) values ('car6','2022-05-05',5);
+insert into auto_post (description, created, auto_user_id) values ('car7','2022-07-07',5);
+insert into auto_post (description, created, auto_user_id) values ('car8','2022-01-12',6);
+insert into auto_post (description, created, auto_user_id) values ('car9','2022-12-12',6);
